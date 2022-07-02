@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlit2594/portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlit2594/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/jlit2594/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^9.0.0"
+  }
+}
